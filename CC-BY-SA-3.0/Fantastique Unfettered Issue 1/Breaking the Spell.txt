@@ -180,6 +180,8 @@ You sigh. You've come this far, you can't go back now.
 
 "You're a smart girl," says the wise woman. "You can do anything you put your mind to."
 
+—
+
 **The Creature casts a spell**
 
 "Please let me go," the creature on the shore says. "If you let me go, I will grant you your heart's most secret wish."
@@ -215,6 +217,8 @@ There was a crash as the bell jar slipped from her grasp and shattered to tiny p
 She could hear the worry in her father's voice and tears trickled down her cheeks as she thought of how he'd never trust her with his worlds again.
 
 "I'm sorry," she whispered as the world blurred away and turned to black.
+
+—
 
 **Duende**
 
@@ -349,6 +353,8 @@ She takes off her hat and hands it to you, and before you can ask her any questi
 "You should have been more careful," they say. "History is filled with enough warnings. We're sorry this happened, but we can't do more than make sure she's kept safe until the wish comes true.
 
 In the meantime, we'll give her a floating castle. We'll surround it with spells. And she will have a guardian to make sure that only one who is worthy enters in and breaks the spell."
+
+—
 
 **You**
 
