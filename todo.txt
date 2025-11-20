@@ -1,0 +1,3 @@
+Fantastique:
+  Clean up endash/emdash inconsistencies
+  Italics?
