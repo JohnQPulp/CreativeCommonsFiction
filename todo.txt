@@ -1,6 +1,0 @@
-Fantastique:
-  Clean up endash/emdash inconsistencies
-  Italics?
-
-Green Comet:
-  Text styles?
